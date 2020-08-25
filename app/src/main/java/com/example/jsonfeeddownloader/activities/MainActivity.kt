@@ -91,4 +91,8 @@ class MainActivity : AppCompatActivity() {
 
     }
 
+    private fun DoNothingPartDuex() {
+
+    }
+
 }
