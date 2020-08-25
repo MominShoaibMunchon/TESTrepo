@@ -87,17 +87,5 @@ class MainActivity : AppCompatActivity() {
     }
 
 
-    private fun doNothing() {
-
-    }
-
-    private fun testingBranchChanges()
-    {
-        
-    }
-
-    private fun testtestest()
-    {
-        
-    }
+   
 }
