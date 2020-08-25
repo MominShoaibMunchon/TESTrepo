@@ -91,17 +91,5 @@ class MainActivity : AppCompatActivity() {
 
     }
 
-    private fun DoNothingPartDuex() {
 
-    }
-
-    private fun TestingGitAddCommand()
-    {
-
-    }
-
-    private fun testing()
-    {
-
-    }
 }
