@@ -87,4 +87,8 @@ class MainActivity : AppCompatActivity() {
     }
 
 
+    private fun doNothing() {
+
+    }
+
 }
