@@ -95,4 +95,13 @@ class MainActivity : AppCompatActivity() {
 
     }
 
+    private fun TestingGitAddCommand()
+    {
+
+    }
+
+    private fun testing()
+    {
+
+    }
 }
